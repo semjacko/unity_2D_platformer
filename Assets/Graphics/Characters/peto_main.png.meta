@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: e8412679251270d4486755e243fd9848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3536596161426361943
+    second: peto_main_0
+  - first:
+      213: -2047294970071905711
+    second: peto_main_1
+  - first:
+      213: -3185086741592114088
+    second: peto_main_2
+  - first:
+      213: -3713112727106102850
+    second: peto_main_3
+  - first:
+      213: 8176385461516744251
+    second: peto_main_4
+  - first:
+      213: 6730710914509679178
+    second: peto_main_5
+  - first:
+      213: -7521020765675935265
+    second: peto_main_6
+  - first:
+      213: -3685530799110328047
+    second: peto_main_7
+  - first:
+      213: 8976519071668603911
+    second: peto_main_8
+  - first:
+      213: 7838873679199296197
+    second: peto_main_9
+  - first:
+      213: -436033088199993246
+    second: peto_main_10
+  - first:
+      213: -3421700367752472826
+    second: peto_main_11
+  - first:
+      213: -569460295504294845
+    second: peto_main_12
+  - first:
+      213: 4102450742673042326
+    second: peto_main_13
+  - first:
+      213: -3744024144674300414
+    second: peto_main_14
+  - first:
+      213: 363323846097267756
+    second: peto_main_15
+  - first:
+      213: -3075386366397528365
+    second: peto_main_16
+  - first:
+      213: 2393099114572483865
+    second: peto_main_17
+  - first:
+      213: 5796308157950835937
+    second: peto_main_18
+  - first:
+      213: -2867262306758813457
+    second: peto_main_19
+  - first:
+      213: 910217161213262236
+    second: peto_main_20
+  - first:
+      213: 2071764925777146582
+    second: peto_main_21
+  - first:
+      213: -1838424403246754517
+    second: peto_main_22
+  - first:
+      213: 7939239456257213273
+    second: peto_main_23
+  - first:
+      213: -6302653978009420313
+    second: peto_main_24
+  - first:
+      213: 6747369748321788622
+    second: peto_main_25
+  - first:
+      213: -8456403052700227449
+    second: peto_main_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peto_main_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4165
+        width: 649
+        height: 530
+      alignment: 9
+      pivot: {x: 0.28995067, y: 0.007845451}
+      border: {x: 68, y: 0, z: 346, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1fb24678c7beec0800000000000000
+      internalID: -3536596161426361943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_1
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 4138
+        width: 422
+        height: 514
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 84, y: 0, z: 111, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a8b6e521c8693e0800000000000000
+      internalID: -2047294970071905711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_2
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 4146
+        width: 649
+        height: 526
+      alignment: 9
+      pivot: {x: 0.3108354, y: 0.01458717}
+      border: {x: 92, y: 0, z: 323, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c789cdb7c4cc3d0800000000000000
+      internalID: -3185086741592114088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_3
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 4111
+        width: 495
+        height: 526
+      alignment: 9
+      pivot: {x: 0.30623767, y: 0}
+      border: {x: 31, y: 0, z: 222, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9dbd9c5af587cc0800000000000000
+      internalID: -3713112727106102850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_4
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4100
+        width: 522
+        height: 541
+      alignment: 9
+      pivot: {x: 0.27216256, y: 0.00709136}
+      border: {x: 23, y: 0, z: 265, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36bf54c14b587170800000000000000
+      internalID: 8176385461516744251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_5
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 4085
+        width: 602
+        height: 518
+      alignment: 9
+      pivot: {x: 0.32155836, y: 0}
+      border: {x: 88, y: 0, z: 287, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa1397ae9486d50800000000000000
+      internalID: 6730710914509679178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_6
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 4119
+        width: 706
+        height: 518
+      alignment: 9
+      pivot: {x: 0.38044924, y: -0.111095764}
+      border: {x: 135, y: 0, z: 318, w: 58}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9ac813677ff9790800000000000000
+      internalID: -7521020765675935265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_7
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 4088
+        width: 449
+        height: 637
+      alignment: 9
+      pivot: {x: 0.509861, y: -0.07647482}
+      border: {x: 100, y: 0, z: 92, w: 203}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1117446d34d5adcc0800000000000000
+      internalID: -3685530799110328047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_8
+      rect:
+        serializedVersion: 2
+        x: 6414
+        y: 4210
+        width: 531
+        height: 127
+      alignment: 9
+      pivot: {x: 0.9487139, y: 0.21552812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c835a3980039c70800000000000000
+      internalID: 8976519071668603911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3348
+        width: 433
+        height: 694
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 100, y: 0, z: 92, w: 172}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca55df341649cc60800000000000000
+      internalID: 7838873679199296197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3313
+        width: 445
+        height: 710
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 55, y: 0, z: 66, w: 161}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268d58b6736e2f9f0800000000000000
+      internalID: -436033088199993246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_11
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 3283
+        width: 441
+        height: 733
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 73, y: 0, z: 107, w: 169}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075a4cf4ada380d0800000000000000
+      internalID: -3421700367752472826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_12
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 3294
+        width: 438
+        height: 691
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 85, y: 0, z: 112, w: 161}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c07ccd0eed818f0800000000000000
+      internalID: -569460295504294845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_13
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 3260
+        width: 510
+        height: 571
+      alignment: 9
+      pivot: {x: 0.42477453, y: 0.006718784}
+      border: {x: 88, y: 7, z: 172, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6099f635dee830800000000000000
+      internalID: 4102450742673042326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_14
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 3302
+        width: 292
+        height: 422
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed33a80ed8a0cc0800000000000000
+      internalID: -3744024144674300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_15
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 3256
+        width: 392
+        height: 537
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 65, y: 0, z: 77, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6e01fc19ca0500800000000000000
+      internalID: 363323846097267756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_16
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 3287
+        width: 1174
+        height: 541
+      alignment: 9
+      pivot: {x: 0.6437864, y: -0.0070918114}
+      border: {x: 602, y: 0, z: 280, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6cbc3d4680255d0800000000000000
+      internalID: -3075386366397528365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2372
+        width: 490
+        height: 451
+      alignment: 9
+      pivot: {x: 0.689803, y: 0.00000054133176}
+      border: {x: 202, y: 0, z: 18, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d056c27fef53120800000000000000
+      internalID: 2393099114572483865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_18
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2356
+        width: 885
+        height: 658
+      alignment: 9
+      pivot: {x: 0.13786122, y: 0.00000038875896}
+      border: {x: 0, y: 0, z: 566, w: 147}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecbb5b3f8f907050800000000000000
+      internalID: 5796308157950835937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_20
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2288
+        width: 583
+        height: 560
+      alignment: 9
+      pivot: {x: 0.7326296, y: 0.0060546873}
+      border: {x: 295, y: 0, z: 17, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99b4928fadb1ac00800000000000000
+      internalID: 910217161213262236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_21
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 2292
+        width: 875
+        height: 735
+      alignment: 9
+      pivot: {x: 0.1590053, y: 0.013839286}
+      border: {x: 0, y: 0, z: 600, w: 213}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d27f0b293360cc10800000000000000
+      internalID: 2071764925777146582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_23
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2285
+        width: 305
+        height: 773
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 217}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9530af8b838dd2e60800000000000000
+      internalID: 7939239456257213273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: peto_main_24
+      rect:
+        serializedVersion: 2
+        x: 5682
+        y: 2264
+        width: 922
+        height: 580
+      alignment: 9
+      pivot: {x: 0.15432335, y: 0.0000004209321}
+      border: {x: 20, y: 0, z: 658, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edbb8299997888a0800000000000000
+      internalID: -6302653978009420313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

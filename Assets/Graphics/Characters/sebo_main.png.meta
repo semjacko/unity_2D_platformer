@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 60215b2acf19f774c8272e2c50a3cd12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8610492567003522252
+    second: sebo_main_0
+  - first:
+      213: -3462091959713874817
+    second: sebo_main_1
+  - first:
+      213: -8070359147583977865
+    second: sebo_main_2
+  - first:
+      213: -356153409118974673
+    second: sebo_main_3
+  - first:
+      213: -5256014360316363563
+    second: sebo_main_4
+  - first:
+      213: -8900355325696185774
+    second: sebo_main_5
+  - first:
+      213: 644490025121229802
+    second: sebo_main_6
+  - first:
+      213: 6178792171811645520
+    second: sebo_main_7
+  - first:
+      213: 5080948749902851506
+    second: sebo_main_8
+  - first:
+      213: -2895789446467381126
+    second: sebo_main_9
+  - first:
+      213: 3617803377546444839
+    second: sebo_main_10
+  - first:
+      213: 3679910375455476734
+    second: sebo_main_11
+  - first:
+      213: -7526506947486486145
+    second: sebo_main_12
+  - first:
+      213: -882704320213952532
+    second: sebo_main_13
+  - first:
+      213: -2225279607091614512
+    second: sebo_main_14
+  - first:
+      213: -7179687189260934874
+    second: sebo_main_15
+  - first:
+      213: 1372059235302975870
+    second: sebo_main_16
+  - first:
+      213: -147480517754739948
+    second: sebo_main_17
+  - first:
+      213: 2405088787416483488
+    second: sebo_main_18
+  - first:
+      213: 8535056553861108360
+    second: sebo_main_19
+  - first:
+      213: 1589047298408274182
+    second: sebo_main_20
+  - first:
+      213: -5818833461768965425
+    second: sebo_main_21
+  - first:
+      213: -3861756404934850499
+    second: sebo_main_22
+  - first:
+      213: 1413328295379013403
+    second: sebo_main_23
+  - first:
+      213: 1870984045723995924
+    second: sebo_main_24
+  - first:
+      213: 5892672662535199066
+    second: sebo_main_25
+  - first:
+      213: -340935455649878506
+    second: sebo_main_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sebo_main_0
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4167
+        width: 644
+        height: 525
+      alignment: 9
+      pivot: {x: 0.2939765, y: 0.008714657}
+      border: {x: 12, y: 0, z: 275, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4e26d8e5d9e7770800000000000000
+      internalID: 8610492567003522252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 4132
+        width: 405
+        height: 499
+      alignment: 9
+      pivot: {x: 0.46067557, y: 0.001450166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb481a4bd24ffc0800000000000000
+      internalID: -3462091959713874817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_2
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 4125
+        width: 643
+        height: 501
+      alignment: 9
+      pivot: {x: 0.31855986, y: 0}
+      border: {x: 19, y: 0, z: 256, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776ce662d13500090800000000000000
+      internalID: -8070359147583977865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_3
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 4121
+        width: 559
+        height: 511
+      alignment: 9
+      pivot: {x: 0.3002755, y: 0.0018795484}
+      border: {x: 0, y: 0, z: 248, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d4be38c50be0bf0800000000000000
+      internalID: -356153409118974673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_4
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 4103
+        width: 582
+        height: 518
+      alignment: 9
+      pivot: {x: 0.2295614, y: 0.018328456}
+      border: {x: 0, y: 0, z: 311, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcbdfe69c2ee07b0800000000000000
+      internalID: -5256014360316363563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_5
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 4124
+        width: 547
+        height: 523
+      alignment: 9
+      pivot: {x: 0.31573007, y: -0.0036205635}
+      border: {x: 0, y: 0, z: 202, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a6f15ccf59b7480800000000000000
+      internalID: -8900355325696185774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_6
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 4148
+        width: 634
+        height: 590
+      alignment: 9
+      pivot: {x: 0.39966127, y: -0.15537234}
+      border: {x: 83, y: 0, z: 192, w: 190}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb22a06340b1f800800000000000000
+      internalID: 644490025121229802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_7
+      rect:
+        serializedVersion: 2
+        x: 5102
+        y: 4121
+        width: 448
+        height: 646
+      alignment: 9
+      pivot: {x: 0.50061035, y: -0.17354241}
+      border: {x: 56, y: 0, z: 41, w: 245}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0582ccd5eba7fb550800000000000000
+      internalID: 6178792171811645520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3359
+        width: 434
+        height: 714
+      alignment: 9
+      pivot: {x: 0.46305847, y: 0.009351201}
+      border: {x: 23, y: 0, z: 33, w: 143}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdacefc7f7238640800000000000000
+      internalID: 5080948749902851506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_9
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3335
+        width: 431
+        height: 713
+      alignment: 9
+      pivot: {x: 0.52812576, y: 0.0058127753}
+      border: {x: 44, y: 0, z: 56, w: 192}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a789cfa47d610d7d0800000000000000
+      internalID: -2895789446467381126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_10
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 3296
+        width: 437
+        height: 733
+      alignment: 9
+      pivot: {x: 0.47065005, y: 0.01298142}
+      border: {x: 47, y: 0, z: 65, w: 144}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204dd10105053230800000000000000
+      internalID: 3617803377546444839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_11
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 3299
+        width: 469
+        height: 713
+      alignment: 9
+      pivot: {x: 0.48647752, y: 0.000028420298}
+      border: {x: 55, y: 0, z: 97, w: 162}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb4c4e4dfaa11330800000000000000
+      internalID: 3679910375455476734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_12
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 3286
+        width: 479
+        height: 521
+      alignment: 9
+      pivot: {x: 0.4449542, y: 0.015215912}
+      border: {x: 55, y: 0, z: 95, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71fe83fec97c8790800000000000000
+      internalID: -7526506947486486145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_13
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 3312
+        width: 298
+        height: 492
+      alignment: 9
+      pivot: {x: 0.4708444, y: 0.018889576}
+      border: {x: 0, y: 0, z: 0, w: 67}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d1f7f81100c3f0800000000000000
+      internalID: -882704320213952532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_14
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 3258
+        width: 411
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5212004, y: 0.008867389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc2265ccf73e11e0800000000000000
+      internalID: -2225279607091614512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_15
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 2474
+        width: 819
+        height: 744
+      alignment: 9
+      pivot: {x: 0.16795266, y: 0.008680774}
+      border: {x: 0, y: 0, z: 425, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621edad7a80ac5c90800000000000000
+      internalID: -7179687189260934874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2502
+        width: 1212
+        height: 540
+      alignment: 9
+      pivot: {x: 0.5976533, y: 0.0070705838}
+      border: {x: 491, y: 0, z: 267, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41320ff104b04fdf0800000000000000
+      internalID: -147480517754739948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_18
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 2524
+        width: 524
+        height: 506
+      alignment: 9
+      pivot: {x: 0.7036582, y: -0.0077743833}
+      border: {x: 167, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a60c3b6287906120800000000000000
+      internalID: 2405088787416483488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_20
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 2455
+        width: 649
+        height: 526
+      alignment: 9
+      pivot: {x: 0.7239383, y: 0.0000009042245}
+      border: {x: 252, y: 0, z: 23, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6095be8491e6d0610800000000000000
+      internalID: 1589047298408274182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_21
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 2400
+        width: 736
+        height: 668
+      alignment: 9
+      pivot: {x: 0.21482186, y: 0.023673765}
+      border: {x: 0, y: 0, z: 389, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2ba18cbc95f3fa0800000000000000
+      internalID: -5818833461768965425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_23
+      rect:
+        serializedVersion: 2
+        x: 5462
+        y: 2390
+        width: 337
+        height: 722
+      alignment: 9
+      pivot: {x: 0.4634267, y: 0.005321938}
+      border: {x: 0, y: 0, z: 0, w: 205}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f0315b8962d9310800000000000000
+      internalID: 1413328295379013403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sebo_main_25
+      rect:
+        serializedVersion: 2
+        x: 6124
+        y: 2432
+        width: 791
+        height: 562
+      alignment: 9
+      pivot: {x: 0.18566231, y: 0.005745993}
+      border: {x: 0, y: 0, z: 498, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59d01cd09af6c150800000000000000
+      internalID: 5892672662535199066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
